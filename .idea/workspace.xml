@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e92e6df8-57f4-4da4-a390-1627b460a166" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTML4 File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vsphere-automation-sdk-python" />
+  </component>
+  <component name="ProjectId" id="1Z6WseVwGfFmxfSa9GhMdJpzRYO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spug" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jolin\PycharmProjects\ippool\ippool_web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.models">
+    <configuration name="create_basic_vm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ippool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/vsphere/vcenter/vm/create" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/vsphere/vcenter/vm/create/create_basic_vm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_basic_vm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ippool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ippool_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ippool_web/create_basic_vm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ippool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ippool_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ippool_web/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vmdk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ippool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/vsphere/common/vim" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/vsphere/common/vim/vmdk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ippool" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ippool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ippool.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.vmdk" />
+        <item itemvalue="Python.create_basic_vm (1)" />
+        <item itemvalue="Python.create_basic_vm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e92e6df8-57f4-4da4-a390-1627b460a166" name="Default Changelist" comment="" />
+      <created>1584160231334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584160231334</updated>
+      <workItem from="1584160254675" duration="21543000" />
+      <workItem from="1584198208841" duration="6915000" />
+      <workItem from="1584251290909" duration="1263000" />
+      <workItem from="1584260292386" duration="5890000" />
+      <workItem from="1584273779092" duration="1089000" />
+      <workItem from="1584325772414" duration="3955000" />
+      <workItem from="1584419772217" duration="208000" />
+      <workItem from="1584420060659" duration="484000" />
+      <workItem from="1584420573977" duration="1265000" />
+      <workItem from="1584428009331" duration="3825000" />
+      <workItem from="1584445880000" duration="1788000" />
+      <workItem from="1584495202209" duration="2089000" />
+      <workItem from="1584526502139" duration="882000" />
+      <workItem from="1584534458396" duration="4896000" />
+      <workItem from="1584593883860" duration="17814000" />
+      <workItem from="1584691066611" duration="2351000" />
+      <workItem from="1584775159553" duration="1161000" />
+      <workItem from="1584927723155" duration="23621000" />
+      <workItem from="1584973994467" duration="205000" />
+      <workItem from="1584974289624" duration="16000" />
+      <workItem from="1585015577883" duration="3860000" />
+      <workItem from="1585102697902" duration="2399000" />
+      <workItem from="1585146110625" duration="841000" />
+      <workItem from="1585621090643" duration="2437000" />
+      <workItem from="1585624744100" duration="610000" />
+      <workItem from="1585664709238" duration="1212000" />
+      <workItem from="1585722435579" duration="5000" />
+      <workItem from="1585821437454" duration="1440000" />
+      <workItem from="1587452573719" duration="8084000" />
+      <workItem from="1587475441844" duration="3535000" />
+      <workItem from="1587522956112" duration="4693000" />
+      <workItem from="1587539139067" duration="6305000" />
+      <workItem from="1587648248695" duration="2733000" />
+      <workItem from="1587692045277" duration="181000" />
+      <workItem from="1587692459912" duration="8000" />
+      <workItem from="1587692718605" duration="4787000" />
+      <workItem from="1587804479764" duration="604000" />
+      <workItem from="1588169247903" duration="165000" />
+      <workItem from="1588731463727" duration="3851000" />
+      <workItem from="1588920963921" duration="9104000" />
+      <workItem from="1588935430095" duration="5741000" />
+      <workItem from="1589613327822" duration="10477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="84" key="#Inspections" timestamp="1587476508790">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="399" y="84" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1587476508790" />
+    <state x="514" y="204" key="FileChooserDialogImpl" timestamp="1587460115020">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="514" y="204" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587460115020" />
+    <state width="1495" height="222" key="GridCell.Tab.0.bottom" timestamp="1588933752371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1495" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588933752371" />
+    <state width="1495" height="222" key="GridCell.Tab.0.center" timestamp="1588933752371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1495" height="222" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588933752371" />
+    <state width="1495" height="222" key="GridCell.Tab.0.left" timestamp="1588933752371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1495" height="222" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588933752371" />
+    <state width="1495" height="222" key="GridCell.Tab.0.right" timestamp="1588933752371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1495" height="222" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588933752371" />
+    <state x="300" y="76" key="SettingsEditor" timestamp="1587455046481">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="300" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587455046481" />
+    <state width="503" height="445" key="SwitcherDM" timestamp="1584966243682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="503" height="445" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1584966243682" />
+    <state x="391" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1589613329308">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="391" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1589613329308" />
+    <state x="547" y="112" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584775370450">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="547" y="112" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1584775370450" />
+    <state x="432" y="174" width="850" height="578" key="find.popup" timestamp="1589627842034">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="432" y="174" width="850" height="578" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1589627842034" />
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1584775612353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1584775612353" />
+    <state x="467" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1587541485556">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="467" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587541485556" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ippool$create_basic_vm__1_.coverage" NAME="create_basic_vm (1) Coverage Results" MODIFIED="1585017367471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/vsphere/vcenter/vm/create" />
+    <SUITE FILE_PATH="coverage/ippool$vmdk.coverage" NAME="vmdk Coverage Results" MODIFIED="1587648832024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/vsphere/common/vim" />
+    <SUITE FILE_PATH="coverage/ippool$models.coverage" NAME="models Coverage Results" MODIFIED="1588927757974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ippool_web" />
+    <SUITE FILE_PATH="coverage/ippool$create_basic_vm.coverage" NAME="create_basic_vm Coverage Results" MODIFIED="1584952634086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ippool_web" />
+  </component>
+</project>
