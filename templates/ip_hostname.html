@@ -1,0 +1,143 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="/static/semantic.min.css">
+  <script src="/static/jquery-3.4.1.min.js"></script>
+  <script src="/static/semantic.min.js"></script>
+</head>
+<script>
+    $(function () {
+        $(".ui.dropdown").dropdown();
+        $(".ui.teal.button").click(function(){
+            $(".ui.form").submit();
+  });
+    })
+</script>
+<body>
+<form class="ui form" action="/createvm/" method="get">
+  <h4 class="ui dividing header">host_info</h4>
+  <div class=" six fields">
+     <div class="field">
+      <label>IP</label>
+      <div class="field">
+        <input type="text" name="ip" placeholder="IPADDR">
+      </div>
+    </div>
+    <div class="field">
+      <label>hostName</label>
+      <div class="field">
+        <input type="text" name="hostname" placeholder="主机名">
+      </div>
+    </div>
+    <div class="field">
+      <label>dept</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="dept">
+        <div class="default text">dept</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="core">智慧医院</div>
+          <div class="item" data-value="eh">互联网医院</div>
+          <div class="item" data-value="hw">hiwork</div>
+          <div class="item" data-value="hiz">支付事业部</div>
+          <div class="item" data-value="op">自主产品</div>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>tpye</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="type">
+        <div class="default text">type</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="web">web</div>
+          <div class="item" data-value="app">app</div>
+          <div class="item" data-value="redis">redis</div>
+          <div class="item" data-value="zookeeper">zookeeper</div>
+          <div class="item" data-value="rocketmq">rocketmq</div>
+          <div class="item" data-value="db">mysql</div>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>dc</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="dc">
+        <div class="default text">dc</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="dc1vm">广州</div>
+          <div class="item" data-value="dc2vm">深圳</div>
+          <div class="item" data-value="dc3vm">长沙</div>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>env</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="env">
+        <div class="default text">env</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+{#          <div class="item" data-value="prd">生产</div>#}
+{#          <div class="item" data-value="dev">开发</div>#}
+          <div class="item" data-value="uat">测试</div>
+          <div class="item" data-value="stress">压测</div>
+          <div class="item" data-value="stg">灰度</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <h4 class="ui dividing header">vm_hardware</h4>
+  <div class="three fields">
+    <div class="field">
+      <label>CPU</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="cpu">
+        <div class="default text">CPU</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="2">2C</div>
+          <div class="item" data-value="4">4C</div>
+          <div class="item" data-value="8">8C</div>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>MEMORY</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="memory">
+        <div class="default text">MEMORY</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="2">2G</div>
+          <div class="item" data-value="4">4G</div>
+          <div class="item" data-value="8">8G</div>
+          <div class="item" data-value="16">16G</div>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>CAP</label>
+      <div class="ui selection dropdown">
+        <input type="hidden" name="cap">
+        <div class="default text">CAP</div>
+        <i class="dropdown icon"></i>
+        <div class="menu">
+          <div class="item" data-value="30">30G</div>
+          <div class="item" data-value="50">50G</div>
+          <div class="item" data-value="100">100G</div>
+          <div class="item" data-value="300">300G</div>
+          <div class="item" data-value="500">500G</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class=" ui  teal  button" >register</div>
+</form>
+
+
+</body>
+</html>
